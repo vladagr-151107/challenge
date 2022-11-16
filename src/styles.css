@@ -47,9 +47,6 @@ img {
 .odessa {
   text-align: left;
 }
-#description {
-  font-size: 40px;
-}
 h2 {
   font-size: 35px;
 }
@@ -65,15 +62,6 @@ h4 {
 }
 img {
   width: 200px;
-}
-.dubai {
-  margin-top: 15px;
-}
-.newyork {
-  margin-top: 15px;
-}
-.london {
-  margin-top: 15px;
 }
 a {
   color: rgb(11, 11, 90);
